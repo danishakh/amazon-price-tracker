@@ -1,0 +1,54 @@
+{
+    "title":"PS4",
+    "date":"19/04/2021 19:27:28",
+    "best_item":{
+       "asin":"B075YCY3SS",
+       "url":"http://www.amazon.de/dp/B075YCY3SS",
+       "title":"Razer Thresher 7.1 for PlayStation - Wireless Gaming Headset for PS4, PS5 and PC (Wireless Headphones, Dolby 7.1 Surround Sound, 16 Hours Battery Life, Retractable Microphone) Black/Blue",
+       "seller":"Visit the Razer Store",
+       "price":148.48
+    },
+    "currency":"\u20ac",
+    "filters":{
+       "min":"200",
+       "max":"800"
+    },
+    "base_link":"http://www.amazon.de/",
+    "products":[
+       {
+          "asin":"B075YCY3SS",
+          "url":"http://www.amazon.de/dp/B075YCY3SS",
+          "title":"Razer Thresher 7.1 for PlayStation - Wireless Gaming Headset for PS4, PS5 and PC (Wireless Headphones, Dolby 7.1 Surround Sound, 16 Hours Battery Life, Retractable Microphone) Black/Blue",
+          "seller":"Visit the Razer Store",
+          "price":148.48
+       },
+       {
+          "asin":"B00H0R9DSG",
+          "url":"http://www.amazon.de/dp/B00H0R9DSG",
+          "title":"Gaems Vanguard Personal Gaming Environment (PS4/PS3/Xbox One/Xbox 360)",
+          "seller":"Visit the GAEMS Store",
+          "price":289.52
+       },
+       {
+          "asin":"B08C636KBK",
+          "url":"http://www.amazon.de/dp/B08C636KBK",
+          "title":"PlayStation 4 Pro - Konsole (1TB, schwarz) Ghost of Tsushima Bundle",
+          "seller":"Brand: Sony Interactive Entertainment",
+          "price":529.0
+       },
+       {
+          "asin":"B005PPOBQE",
+          "url":"http://www.amazon.de/dp/B005PPOBQE",
+          "title":"Thrustmaster F1 Wheel add on - Die abnehmbare Ferrari 150th Italia Rennlenker-Replik fur PS4/Xbox/PC",
+          "seller":"Visit the Thrustmaster Store",
+          "price":181.98
+       },
+       {
+          "asin":"B07W6JB7N7",
+          "url":"http://www.amazon.de/dp/B07W6JB7N7",
+          "title":"Logitech G923 Gaming TRUE FORCE racing wheel with pedals, force feedback to 1000 Hz, response fast pedal, dual clutch system, leather steering wheel, for PS5, PS4 & PC UK Plug - Black",
+          "seller":"Brand: Logitech G",
+          "price":299.99
+       }
+    ]
+ }
