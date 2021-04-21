@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 DIRECTORY = 'reports'
-NAME = 'PS5'
+NAME = 'POLAROID CAMERA'
 CURRENCY = '€'
 MIN_PRICE = '200'
 MAX_PRICE = '800'
