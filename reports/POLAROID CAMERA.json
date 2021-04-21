@@ -1,1 +1,103 @@
-{"title": "POLAROID CAMERA", "date": "21/04/2021 01:51:09", "best_item": {"asin": "B07TKXP47N", "url": "http://www.amazon.de/dp/B07TKXP47N", "title": "AGFA Photo Realipix Mini S - Instant Camera (Photo 5.3 x 8.6 cm - 2.1 x 3.4 inches, 10 MP, LCD Display, 1.7 inches, Bluetooth, Lithium Battery, Thermosublimation 4-Pass) Black & Red", "seller": "Brand: AgfaPhoto", "price": 99.16}, "currency": "\u20ac", "filters": {"min": "200", "max": "800"}, "base_link": "http://www.amazon.de/", "products": [{"asin": "B07FTZ259M", "url": "http://www.amazon.de/dp/B07FTZ259M", "title": "Polaroid Originals", "seller": "Visit the Polaroid Originals Store", "price": 145.0}, {"asin": "B01LWV127J", "url": "http://www.amazon.de/dp/B01LWV127J", "title": "Polaroid Snapshot Instant Print Digital Camera with LCD Display with Zinc Zero Ink Print Technology", "seller": "Visit the Polaro\u00efd Store", "price": 179.1}, {"asin": "B075JRPN8Q", "url": "http://www.amazon.de/dp/B075JRPN8Q", "title": "Polaroid POP 3x4 (7.6x10cm) Instant Print Digital Camera with Zinc Zero Ink Printing Technology - Black", "seller": "Visit the Polaro\u00efd Store", "price": 202.99}, {"asin": "B0765B8DMN", "url": "http://www.amazon.de/dp/B0765B8DMN", "title": "HP Sprocket Portable Printer, White", "seller": "Visit the HP Store", "price": 239.9}, {"asin": "B07D5Q64LH", "url": "http://www.amazon.de/dp/B07D5Q64LH", "title": "Originals \u2013 4698 \u2013 Polaroid SX 70 \u2013 Autofocus Instant Camera \u2013 Silver/Black", "seller": "Visit the Polaroid Originals Store", "price": 377.04}, {"asin": "B07HY6F55D", "url": "http://www.amazon.de/dp/B07HY6F55D", "title": "Fujifilm Instax", "seller": "Visit the instax Store", "price": 188.92}, {"asin": "B0772PGMW1", "url": "http://www.amazon.de/dp/B0772PGMW1", "title": "Fujifilm Instax Share SP-3 Instant Camera", "seller": "Visit the instax Store", "price": 169.61}, {"asin": "B07NJGRX76", "url": "http://www.amazon.de/dp/B07NJGRX76", "title": "Fujifilm Instax Square SQ 20 Hybrid Instant Camera", "seller": "Visit the Fujifilm Store", "price": 214.23}, {"asin": "B081DN13ZV", "url": "http://www.amazon.de/dp/B081DN13ZV", "title": "Polaroid Mint Instant Print Digital Camera (Blue) Print on Zinc 2x3 Photo Paper with Adhesive Backing Gift Bundle", "seller": "Visit the Polaro\u00efd Store", "price": 208.77}, {"asin": "B07TKXP47N", "url": "http://www.amazon.de/dp/B07TKXP47N", "title": "AGFA Photo Realipix Mini S - Instant Camera (Photo 5.3 x 8.6 cm - 2.1 x 3.4 inches, 10 MP, LCD Display, 1.7 inches, Bluetooth, Lithium Battery, Thermosublimation 4-Pass) Black & Red", "seller": "Brand: AgfaPhoto", "price": 99.16}, {"asin": "B07Z8KMSHD", "url": "http://www.amazon.de/dp/B07Z8KMSHD", "title": "Polaroid Digital Instant Snap Camera with Zinc Zero Ink Technology", "seller": "Visit the Polaro\u00efd Store", "price": 207.02}, {"asin": "B01MQJMQ3N", "url": "http://www.amazon.de/dp/B01MQJMQ3N", "title": "Polaroid Instant Film", "seller": "Visit the Polaro\u00efd Store", "price": 209.99}]}
+{
+    "title":"POLAROID CAMERA",
+    "date":"21/04/2021 01:51:09",
+    "best_item":{
+       "asin":"B07TKXP47N",
+       "url":"http://www.amazon.de/dp/B07TKXP47N",
+       "title":"AGFA Photo Realipix Mini S - Instant Camera (Photo 5.3 x 8.6 cm - 2.1 x 3.4 inches, 10 MP, LCD Display, 1.7 inches, Bluetooth, Lithium Battery, Thermosublimation 4-Pass) Black & Red",
+       "seller":"Brand: AgfaPhoto",
+       "price":99.16
+    },
+    "currency":"\u20ac",
+    "filters":{
+       "min":"200",
+       "max":"800"
+    },
+    "base_link":"http://www.amazon.de/",
+    "products":[
+       {
+          "asin":"B07FTZ259M",
+          "url":"http://www.amazon.de/dp/B07FTZ259M",
+          "title":"Polaroid Originals",
+          "seller":"Visit the Polaroid Originals Store",
+          "price":145.0
+       },
+       {
+          "asin":"B01LWV127J",
+          "url":"http://www.amazon.de/dp/B01LWV127J",
+          "title":"Polaroid Snapshot Instant Print Digital Camera with LCD Display with Zinc Zero Ink Print Technology",
+          "seller":"Visit the Polaro\u00efd Store",
+          "price":179.1
+       },
+       {
+          "asin":"B075JRPN8Q",
+          "url":"http://www.amazon.de/dp/B075JRPN8Q",
+          "title":"Polaroid POP 3x4 (7.6x10cm) Instant Print Digital Camera with Zinc Zero Ink Printing Technology - Black",
+          "seller":"Visit the Polaro\u00efd Store",
+          "price":202.99
+       },
+       {
+          "asin":"B0765B8DMN",
+          "url":"http://www.amazon.de/dp/B0765B8DMN",
+          "title":"HP Sprocket Portable Printer, White",
+          "seller":"Visit the HP Store",
+          "price":239.9
+       },
+       {
+          "asin":"B07D5Q64LH",
+          "url":"http://www.amazon.de/dp/B07D5Q64LH",
+          "title":"Originals \u2013 4698 \u2013 Polaroid SX 70 \u2013 Autofocus Instant Camera \u2013 Silver/Black",
+          "seller":"Visit the Polaroid Originals Store",
+          "price":377.04
+       },
+       {
+          "asin":"B07HY6F55D",
+          "url":"http://www.amazon.de/dp/B07HY6F55D",
+          "title":"Fujifilm Instax",
+          "seller":"Visit the instax Store",
+          "price":188.92
+       },
+       {
+          "asin":"B0772PGMW1",
+          "url":"http://www.amazon.de/dp/B0772PGMW1",
+          "title":"Fujifilm Instax Share SP-3 Instant Camera",
+          "seller":"Visit the instax Store",
+          "price":169.61
+       },
+       {
+          "asin":"B07NJGRX76",
+          "url":"http://www.amazon.de/dp/B07NJGRX76",
+          "title":"Fujifilm Instax Square SQ 20 Hybrid Instant Camera",
+          "seller":"Visit the Fujifilm Store",
+          "price":214.23
+       },
+       {
+          "asin":"B081DN13ZV",
+          "url":"http://www.amazon.de/dp/B081DN13ZV",
+          "title":"Polaroid Mint Instant Print Digital Camera (Blue) Print on Zinc 2x3 Photo Paper with Adhesive Backing Gift Bundle",
+          "seller":"Visit the Polaro\u00efd Store",
+          "price":208.77
+       },
+       {
+          "asin":"B07TKXP47N",
+          "url":"http://www.amazon.de/dp/B07TKXP47N",
+          "title":"AGFA Photo Realipix Mini S - Instant Camera (Photo 5.3 x 8.6 cm - 2.1 x 3.4 inches, 10 MP, LCD Display, 1.7 inches, Bluetooth, Lithium Battery, Thermosublimation 4-Pass) Black & Red",
+          "seller":"Brand: AgfaPhoto",
+          "price":99.16
+       },
+       {
+          "asin":"B07Z8KMSHD",
+          "url":"http://www.amazon.de/dp/B07Z8KMSHD",
+          "title":"Polaroid Digital Instant Snap Camera with Zinc Zero Ink Technology",
+          "seller":"Visit the Polaro\u00efd Store",
+          "price":207.02
+       },
+       {
+          "asin":"B01MQJMQ3N",
+          "url":"http://www.amazon.de/dp/B01MQJMQ3N",
+          "title":"Polaroid Instant Film",
+          "seller":"Visit the Polaro\u00efd Store",
+          "price":209.99
+       }
+    ]
+ }
