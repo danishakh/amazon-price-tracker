@@ -84,9 +84,10 @@ class AmazonAPI:
         products = self.get_products_info(links)
 
         print("products: ", products)
-        return products
 
         self.driver.quit()
+
+        return products
 
     def get_products_links(self):
         # get to www.amazon.de
